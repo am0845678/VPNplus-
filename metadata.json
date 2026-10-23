@@ -1,0 +1,6 @@
+{
+  "name": "Pars Ping",
+  "description": "فیلترشکن و سرویس اختصاصی پارس پینگ با پینگ پایین، تم دلخواه و پشتیبانی از پروتکل‌های VLESS، VMess و WireGuard",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
